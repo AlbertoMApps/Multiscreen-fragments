@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MultiscreenFragments</string>
+    <string name="detail_fragment">Detail fragment:</string>
+    <string name="fragment1">Fragment1:</string>
+    <string name="button1">Press to update</string>
+    <string name="details_text">Details Text:</string>
+</resources>
